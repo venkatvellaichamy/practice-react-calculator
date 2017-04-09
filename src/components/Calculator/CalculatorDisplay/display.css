@@ -1,0 +1,16 @@
+div.calculator > div.display {
+	height: 25%;
+	border-bottom: solid 1px #cecece;
+	padding: 5px;
+	text-align: right;
+}
+
+div.calculator > div.display > div.sub {
+	color: gray;
+	overflow-x: auto;
+	font-size: 17px;
+}
+
+div.calculator > div.display > div.main {
+	font-size: 35px;
+}

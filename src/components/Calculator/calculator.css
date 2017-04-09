@@ -1,0 +1,9 @@
+div.calculator {
+	width: 400px;
+	height: 600px;
+	border: solid 1px #cecece;
+	box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+	margin: 0 auto;
+
+	font-family: "tahoma"
+}
